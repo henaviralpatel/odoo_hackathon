@@ -1,5 +1,5 @@
 # odoo_hackathon
-# 🧵 ReWear – Admin Panel
+# 🧵 ReWear 
 
 A lightweight, modern, and eco-friendly admin panel for **ReWear – Community Clothing Exchange**, a web-based platform built to promote sustainable fashion and reduce textile waste by encouraging users to swap or redeem unused clothes.
 
@@ -41,7 +41,12 @@ This admin dashboard enables platform administrators to efficiently manage users
 
 ---
 
+## Authentication 
+- **User Login** user@example.com
+  Password -- password123
 
+- **Admin Login** admin@example.com
+- Password - admin123
 
 
 ### Installation
