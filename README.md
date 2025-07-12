@@ -62,8 +62,8 @@ npm install
 
 A passionate trio building sustainable tech for a better tomorrow:
 
-- **Rhythm Chavda** – UI/UX & Frontend Developer  
-- **Hena Patel** – Fullstack Developer & Integrations  
-- **Reni Jadav** – Backend & Firebase Management  
+- **Rhythm Chavda**   
+- **Hena Patel**  
+- **Reni Jadav**   
 
 Together, we created **ReWear** to promote conscious fashion through community-driven clothing exchange.
