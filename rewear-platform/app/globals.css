@@ -1,0 +1,84 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 20% 96%; /* Light beige for background */
+    --foreground: 210 8% 25%; /* Dark gray for text */
+
+    --card: 40 20% 99%; /* Slightly lighter beige for cards */
+    --card-foreground: 210 8% 25%;
+
+    --popover: 40 20% 99%;
+    --popover-foreground: 210 8% 25%;
+
+    --primary: 120 25% 35%; /* Sage green */
+    --primary-foreground: 0 0% 98%; /* White */
+
+    --secondary: 40 20% 90%; /* Beige */
+    --secondary-foreground: 210 8% 25%;
+
+    --muted: 210 5% 65%; /* Gray */
+    --muted-foreground: 210 5% 45%; /* Darker gray */
+
+    --accent: 120 25% 40%; /* Slightly darker sage for hover */
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 210 5% 85%; /* Light gray border */
+    --input: 210 5% 90%; /* Slightly darker input background */
+    --ring: 120 25% 35%; /* Sage green ring */
+
+    --radius: 0.75rem; /* Slightly more rounded corners */
+  }
+
+  .dark {
+    --background: 210 8% 15%; /* Dark gray background */
+    --foreground: 40 20% 90%; /* Light beige text */
+
+    --card: 210 8% 10%;
+    --card-foreground: 40 20% 90%;
+
+    --popover: 210 8% 10%;
+    --popover-foreground: 40 20% 90%;
+
+    --primary: 120 25% 45%; /* Slightly brighter sage for dark mode */
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 210 8% 25%; /* Darker gray for secondary */
+    --secondary-foreground: 40 20% 90%;
+
+    --muted: 210 5% 40%;
+    --muted-foreground: 210 5% 60%;
+
+    --accent: 120 25% 50%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 210 8% 30%;
+    --input: 210 8% 25%;
+    --ring: 120 25% 45%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-poppins;
+  }
+}
