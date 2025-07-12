@@ -55,7 +55,7 @@ This admin dashboard enables platform administrators to efficiently manage users
 git clone https://github.com/your-username/rewear-admin-panel.git
 cd rewear-admin-panel
 npm install
-
+```
 ---
 
 ## 👥 Team Web Weavers
