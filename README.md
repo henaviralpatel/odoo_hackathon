@@ -55,3 +55,15 @@ This admin dashboard enables platform administrators to efficiently manage users
 git clone https://github.com/your-username/rewear-admin-panel.git
 cd rewear-admin-panel
 npm install
+
+---
+
+## 👥 Team Web Weavers
+
+A passionate trio building sustainable tech for a better tomorrow:
+
+- **Rhythm Chavda** – UI/UX & Frontend Developer  
+- **Hena Patel** – Fullstack Developer & Integrations  
+- **Reni Jadav** – Backend & Firebase Management  
+
+Together, we created **ReWear** to promote conscious fashion through community-driven clothing exchange.
