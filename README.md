@@ -1,4 +1,4 @@
-# odoo_hackathon
+# odoo_hackatho
 # 🧵 ReWear
 
 A lightweight, modern, and eco-friendly admin panel for **ReWear – Community Clothing Exchange**, a web-based platform built to promote sustainable fashion and reduce textile waste by encouraging users to swap or redeem unused clothes.
